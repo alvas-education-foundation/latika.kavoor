@@ -1,4 +1,4 @@
-Write a C program to remove specific characters in the String 
+Write a C program to remove specific characters in the String.
 #include <stdio.h>
 #include <string.h>
  
